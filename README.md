@@ -5,19 +5,19 @@
 ### 1. User Profile
 ![User Profile](./Untitled/user.png)
 
-### 4. Repair Process
+### 2. Repair Process
 ![Repair Form](./Untitled/repair-form.png)
-
-
-### 3. Notification & Lists
-![Notification](./Untitled/notification.png)
-![Repair List](./Untitled/repair-list.png)
-
-
-### 5. Details & Status
+### 3. Details
 ![Repair Detail](./Untitled/repair-detail.png)
-![Repair Status](./Untitled/repair-status.png)
+### 4.Repair suscess
 ![Repair Success](./Untitled/repair-success.png)
+### 5.Lists
+![Repair List](./Untitled/repair-list.png)
+### 5.  Status
+![Repair Status](./Untitled/repair-status.png)
+
+### 3. Notification 
+![Notification](./Untitled/notification.png)
 
 ### 6. Evaluation Form
 ![Evaluation Form](./Untitled/evaluation-form.png)
