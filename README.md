@@ -28,7 +28,3 @@
 
 ---
 
-## 📸 Screen Showcase
-
-### 1. Main Dashboard
-![Dashboard](./Untitled/Dashboard.png)
